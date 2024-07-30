@@ -84,4 +84,4 @@ const styles = StyleSheet.create({
     }
 })}
 
-export default Page
+export default Page;
