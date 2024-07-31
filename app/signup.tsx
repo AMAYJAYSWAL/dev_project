@@ -82,6 +82,6 @@ const styles = StyleSheet.create({
     disabled:{
         backgroundColor: Colors.primaryMuted
     }
-})};
+})}
 
 export default Page;
